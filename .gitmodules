@@ -1,0 +1,3 @@
+[submodule "src/routes/Submodule"]
+	path = src/routes/Submodule
+	url = https://github.com/jnthn18/test-route.git
